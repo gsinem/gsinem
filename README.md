@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me my Linkedin profile [https://www.linkedin.com/in/gulsinemkazanci/]
+
 - 
 
 <h3 align="left">Connect with me:</h3>
