@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gülsinem</h1>
-<h3 align="center">data enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
 
 
 - 
